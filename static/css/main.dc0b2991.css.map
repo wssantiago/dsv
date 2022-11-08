@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.dc0b2991.css","mappings":"AAIA,OAHE,wBAOF,CAJA,KAGE,QAAS,CADT,SAEF","sources":["index.css"],"sourcesContent":["* {\n  background-color: #242D34;\n}\n\nbody {\n  background-color: #242D34;\n  padding: 0;\n  margin: 0;\n}\n\n\n"],"names":[],"sourceRoot":""}
